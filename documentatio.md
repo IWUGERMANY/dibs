@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-permalink: /documentatio/
+permalink: /documentatio
 ---
 
 <img src="https://raw.githubusercontent.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator/master/doc/img/DIBS_Logo.png" alt="Beschreibung des Bildes">
