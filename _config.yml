@@ -23,8 +23,8 @@ email: user@iwu.de
 description: >- # this means to ignore newlines until "baseurl:"
   DIBS---Dynamic-ISO-Building-Simulator is a simulation program for calculating the space heating, occupancy hot water, 
   cooling and electricity demand of German non-residential buildings.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "iwugermany.github.io/dibs" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dibs" # the subpath of your site, e.g. /blog
+url: "iwugermany.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  IWUGERMANY
 
 # Build settings
