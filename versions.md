@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Versions
-permalink: /versions/
+permalink: /versions
 ---
 
 # Version History

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki
-permalink: /wiki/
+permalink: /wiki
 ---
 
 Welcome to the Dynamic-ISO-Building-Simulator wiki!
