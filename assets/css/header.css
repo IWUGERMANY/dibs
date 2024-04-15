@@ -1,15 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 nav{
     width: 100vw;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #EEEDEB;
-    height: 60px;
+    background-color: #20232A;
+    height: 70px;
     padding: 10px 0;
     position: sticky;
     top: 0;
     z-index: 3;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    box-shadow: rgba(227, 227, 230, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
   }
   
   ul {
@@ -23,17 +29,20 @@ nav{
   }
 
   .a_tag{
+    display: block;
     text-decoration: none !important;
-    color: black !important;
+    color: #3998B6 !important;
     padding: 10px 15px;
     border-radius: 7px;
     background-color: transparent;
-    font-size: 18px;
+    font-size: 16px;
+    font-weight: 600;
+    transition-delay: 100ms;
+    margin: 0 10px;
   }
 
   .a_tag:hover{
-    background-color: rgba(128, 128, 128, 0.107);
-    color: #333A73 !important;
+    color:white !important;
   }
 
 
@@ -43,10 +52,27 @@ nav{
     justify-content: center;
     padding: 10px;
     border-radius: 12px;
+    width: 80px;
+    height: 50px;
+    background-color: white;
   }
 
   .logo img {
-    width: 100px;
+    width: 80px;
     height: 50px;
     object-fit: contain;
+  }
+
+  .active {
+    color: white !important;
+    text-decoration: none;
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 7px;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 600;
+    transition-delay: 100ms;
+    margin: 0 10px;
   }

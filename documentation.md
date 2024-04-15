@@ -41,7 +41,7 @@ For a detailed installation guide and further information on DIBS see the [wiki]
 
 The Dynamic ISO Building Simulator has been developed in context of the 'ENOB:DataNWG Forschungsdatenbank Nichtwohngebäude' (www.datanwg.de) project and the project 'FlexGeber - Demonstration of flexibility options in the building sector and their integration with the energy system in Germany' at Institut Wohnen und Umwelt (IWU), Darmstadt.
 <p float="left">
-  <img src="https://www.darmstadtimherzen.de/wp-content/uploads/2018/05/IWU.svg" width="15%" /> 
+  <img src="assets/images/IWU_Logo.png" width="15%" /> 
 </p>  
 
 <b>ENOB:DataNWG<b>
@@ -53,11 +53,11 @@ The Dynamic ISO Building Simulator has been developed in context of the 'ENOB:Da
 <b>Project duration:</b>  01.10.2017 until 31.07.2022
 
 <b>ENOB:LezBAU<b>
-<b>Funding code:</b>  Fkz.: 03EN1074A
-</br><b>Project duration:</b>  01.01.2023 until 31.12.2025
+<b>Funding code:</b>  Fkz.: 03EN1074A <br/>
+<b>Project duration:</b>  01.01.2023 until 31.12.2025
   
 <b>All funded by:</b> 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/IWUGERMANY/DIBS---Dynamic-ISO-Building-Simulator/master/doc/img/BMWi_Logo.png" width="30%" /> 
+  <img src="assets/images/BMWi_Logo.png" width="30%" /> 
 </p> 
 in accordance with the parliamentary resolution of the German Parliament.
