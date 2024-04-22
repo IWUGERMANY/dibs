@@ -16,6 +16,7 @@ nav{
     top: 0;
     z-index: 3;
     box-shadow: rgba(227, 227, 230, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    text-transform: capitalize;
   }
   
   ul {
@@ -31,7 +32,7 @@ nav{
   .a_tag{
     display: block;
     text-decoration: none !important;
-    color: #3998B6 !important;
+    color: white !important;
     padding: 10px 15px;
     border-radius: 7px;
     background-color: transparent;
@@ -39,14 +40,19 @@ nav{
     font-weight: 600;
     transition-delay: 100ms;
     margin: 0 10px;
+    transition: .4s;
   }
 
   .a_tag:hover{
-    color:white !important;
+    color:#3998B6 !important;
+  }
+
+  a{
+    text-decoration: none !important;
   }
 
 
-  .logo{
+  #dibs_span{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -55,16 +61,19 @@ nav{
     width: 80px;
     height: 50px;
     background-color: white;
+    font-weight: bold;
+    font-size: 30px;
+    color: #333F50;
+    transition: .4s;
   }
 
-  .logo img {
-    width: 80px;
-    height: 50px;
-    object-fit: contain;
+  #dibs_span:hover{
+    background-color: #333F50;
+    color: white;
   }
 
   .active {
-    color: white !important;
+    color: #3998B6 !important;
     text-decoration: none;
     display: block;
     text-decoration: none;

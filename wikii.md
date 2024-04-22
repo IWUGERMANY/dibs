@@ -4,35 +4,33 @@ title: Wiki
 permalink: /wikii
 ---
 
-Welcome to the `dibs_computing_core` wiki!
+Welcome to the `dibs_cli` wiki!
 
 ## Prerequisites
-
 Before running this program, ensure you have Python 3.10 or higher installed on your system. If Python is not already
 installed, you can download and install it from the official website: [Python.org](https://www.python.org/downloads/)
 
 ### Installing Python
-
 1. Visit the [Python Downloads](https://www.python.org/downloads/) page.
 2. Choose the version appropriate for your operating system (Windows, macOS, or Linux) and click on the download link.
 3. Run the installer and follow the installation instructions.
-4. During the installation process, make sure to check the box that says "Add Python to **PATH**" or "Add Python to
-   environment variables" to ensure Python is added to your system **PATH**.
+4. During the installation process, make sure to check the box that says "Add Python to **PATH**" or "Add Python to environment variables" to ensure Python is added to your system **PATH**.
 5. Once the installation is complete, open a command prompt or terminal and type  
 `python --version` to verify that Python is installed correctly.
 
 ## Installation Guide
-To install the module `dibs_computing_core` use the command `pip` like this: 
+You can install `dibs_cli` using `pip`. First, make sure you have Python and pip ([How to install pip](https://pip.pypa.io/en/stable/installation/)) installed on your system. Then, open a terminal or command prompt and run the following command:
 
 ```bash
-pip install dibs_computing_core == 1.0.0
+pip install dibs_cli
 ```
+This will download and install the package `dibs_cli` and all its dependencies from the Python Package Index (PyPI). While the installation, The Package `dibs_cli` will automatically install packages [dibs_computing_core](https://github.com/IWUGERMANY/DibsComputingCore), [dibs_datasource_csv](https://github.com/IWUGERMANY/DibsDataSourceCSV) and [dibs_data](https://github.com/IWUGERMANY/DibsData), which are necessary for buildings simulation.
 
 ## Documentation 
 Full documentation of the structure of `dibs_computing_core` (classes, interfaces and methodes) has been bundled in a PDF document which can be found in this repository. [Open PDF document](https://github.com/IWUGERMANY/DibsComputingCore/blob/main/src/DibsDocumentation.pdf).
 
 #### Usage
-There are two ways 
+To use this package `dibs_cli` read the Repository [**README.md**](https://github.com/IWUGERMANY/DibsCLI)
 
 ## Description of input parameters
 The following input parameters are used in the building simulation: 
