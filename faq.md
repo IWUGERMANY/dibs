@@ -16,8 +16,6 @@ If you have a question that isn't answered here, feel free to contact us!
 **Contact Information**:
 
 
-Email: info@iwu.de
-
-Phone: 06151 2904-0
+Email: j.bishof@iwu.de
 
 Website: [IWUGERMANY](https://www.iwu.de/aktuell/)  
