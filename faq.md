@@ -16,6 +16,6 @@ If you have a question that isn't answered here, feel free to contact us!
 **Contact Information**:
 
 
-Email: j.bishof@iwu.de
+Email: j.bischof@iwu.de
 
 Website: [IWUGERMANY](https://www.iwu.de/aktuell/)  

@@ -6,7 +6,8 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #20232A;
+    /* background-color: #20232A; */
+    background-color: white;
     padding: 10px 0;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
@@ -17,5 +18,12 @@ footer span{
     font-weight: 500;
     padding: 10px 20px;
     border-radius: 10px;
-    color: white;
+    color: black;
+}
+
+#dibs_logo{
+    object-fit: contain;
+    width: 250px;
+    height: 120px;
+    padding: 10px;
 }

@@ -26,6 +26,7 @@ The DIBS project consists of four packages designed to facilitate building simul
 2.	**dibs_datasource_csv**: It provides utilities to handle CSV input files, which are commonly used as data sources in the default input file type for DIBS building simulations.
 3.	**dibs_data**: This package contains auxiliary data, such as occupancy schedules or weather files, required for the  that aids in building simulation tasks.
 4.	**dibs_cli**: A provides a command-line interface (CLI) tool that which allows users to simulate buildings using the functionality provided by dibs_computing_core.
+
 For more detailed information on each package and its functionalities, please refer to the README.md of each package:
 
 1. [dibs_computing_core README.md](https://github.com/IWUGERMANY/DibsComputingCore/blob/main/README.md)
